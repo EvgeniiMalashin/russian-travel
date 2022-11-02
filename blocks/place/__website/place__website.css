@@ -1,4 +1,7 @@
 .place__website {
     display: grid;
+    grid-template-rows: min-content min-content;
+    gap: 12px;
+    align-content: flex-end;
     
 }

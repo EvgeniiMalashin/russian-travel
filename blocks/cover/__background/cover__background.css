@@ -1,0 +1,6 @@
+.cover__background {
+    max-width: 100%;
+    height: auto;
+    grid-row: 1;
+    grid-column: 1;
+}
