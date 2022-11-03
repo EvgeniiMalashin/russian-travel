@@ -1,12 +1,12 @@
 .header__lang-link {
-    align-self: flex-end;
+    margin-top: 14px;
     line-height: 28px;
     font-size: 24px;
     font-weight: 400;
     text-align: right;
     color: #fff;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
     .header__lang-link {
         line-height: 20px;
         font-size: 18px;

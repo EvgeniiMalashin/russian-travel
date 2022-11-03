@@ -2,17 +2,13 @@
     margin-top: 32px;
     margin-bottom: 0;
     max-width: 360px;
-    height: auto;
     line-height: 22px;
     font-size: 18px;
     font-weight: 400;
-    text-align: center;
-    
-    
-    
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
     .cover__subtitle {
+        margin-top: 16px;
         line-height: 16px;
         font-size: 14px;
     }

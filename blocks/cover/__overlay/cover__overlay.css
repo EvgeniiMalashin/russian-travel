@@ -1,8 +1,7 @@
 .cover__overlay {
-    
     background-color: #2a2c2f;
-    grid-row: 1/4;
-    grid-column: 1/3;
+    grid-row: 1;
+    grid-column: 1;
     opacity: 0.3;
 }
 .cover__overlay:hover {
