@@ -3,12 +3,12 @@
     color: #fff;
     margin: 92px 48px 0 48px;
 }
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
     .cover {
         margin: 92px 0 0 0;
     }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .cover {
         margin-top: 66px;
     }

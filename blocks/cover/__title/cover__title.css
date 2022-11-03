@@ -1,20 +1,14 @@
 .cover__title {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     max-width: 560px;
-    justify-self: center;
-    align-self: center;
     margin:0;
     text-align: center;
     line-height: 76px;
     font-size: 72px;
     font-weight: 900;
-    grid-row: 1;
-    grid-column: 1;
-    z-index: 1;
+    justify-self: center;
+    align-self: flex-end;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .cover__title {
         margin-left: 16px;
         margin-right: 16px;

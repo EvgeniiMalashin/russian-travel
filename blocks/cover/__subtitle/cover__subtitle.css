@@ -5,8 +5,11 @@
     line-height: 22px;
     font-size: 18px;
     font-weight: 400;
+    text-align: center;
+    justify-self: center;
+    align-self: flex-start;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .cover__subtitle {
         margin-top: 16px;
         line-height: 16px;

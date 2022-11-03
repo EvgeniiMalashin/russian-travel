@@ -1,23 +1,7 @@
-# Проект: Путешествие по России
-
-### Обзор
-* Интро
-* Figma
-* Картинки
-
-**Интро**
-
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+Project - "Russian-travel"
+https://evgeniimalashin.github.io/russian-travel/
+Этот проект создан Евгением Малашиным как демонстрация усвоенных навыков второго спринта "Работа с макетом, адаптивная вёрстка, интерактивные элементы" на курсе "вебразработчик плюс" от "Яндекс.Практикум".
+В проекте использовались полученные знания по адаптивной разметке страницы, организации файлов по БЭМ, позиционированию элементов, Figma, а также по углубленному ипользованию Bash и GIT.
+https://practicum.yandex.ru/
+This project was created by Evgenii Malashin for demonstration of skills of second sprint "Working with layout maket, adaptive layout, interactive elements" of course "Web developer plus" from "Yandex practicum".
+In project I used knowledge of adaptive web page markup, organizing files by BEM, position of elements, Figma and also in-depth use of Bash and GIT.
