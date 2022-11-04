@@ -2,4 +2,11 @@
     display: grid;
     grid-template-rows: min-content min-content;
     gap: 12px;
+    align-self: flex-end;
+}
+@media screen and (max-width: 767px) {
+    .place__website {
+        margin-right: 16px;
+        margin-left: 16px;
+    }    
 }

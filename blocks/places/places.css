@@ -13,13 +13,12 @@
 @media screen and (max-width: 1023px) {
     .places {
         margin: 88px 24px 0 24px;
-        gap: 73px;
+        gap: 72px;
     }
 }
 @media screen and (max-width: 767px) {
     .places {
-        justify-items: center;
         margin: 64px 0 0 0;
-        gap: 50px;
+        gap: 49px;
     }
 }
