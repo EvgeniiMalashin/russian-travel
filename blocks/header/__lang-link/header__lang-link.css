@@ -5,6 +5,13 @@
     font-weight: 400;
     text-align: right;
     color: #fff;
+    margin-right: 18px;
+}
+.header__lang-link:last-of-type {
+    margin-right: 0;
+}
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 @media screen and (max-width: 767px) {
     .header__lang-link {
